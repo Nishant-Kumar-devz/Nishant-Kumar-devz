@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Nishant-Kumar
 - 👀 I’m interested in Web Dev
 - 🌱 I’m currently learning MERN-Stack
-- 📫 How to reach me: Email:- nishantkumardevz@gmail.com
--                      (X)Twitter:- @nishantkumardev
+- 📫 How to reach me: Email:- nishantkumardevz@gmail.com  /   (X)Twitter:- @nishantkumardev
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love exploring new technologies
 
