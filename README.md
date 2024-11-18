@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nishant-Kumar
 - 👀 I’m interested in Web Dev
-- 🌱 I’m currently learning MERN-Stack
+- 🌱 I’m currently learning next.js
 - 📫 Email:- nishantkumardevz@gmail.com , (X)Twitter:- @nishantkumardev , 
 - 😄 Pronouns: he/him
 - ⚡ I love exploring new technologies
