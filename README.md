@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nishant-Kumar
-- 👀 I’m interested in Web Dev
+- 💻 I’m a Software Developer
 - 🌱 I’m currently learning next.js
 - 📫 Email:- nishantkumardevz@gmail.com , (X)Twitter:- @nishantkumardev , 
 - 😄 Pronouns: he/him
